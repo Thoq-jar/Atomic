@@ -1,0 +1,15 @@
+{
+  "tabWidth": 4,
+  "fontSize": 16,
+  "lineHeight": 1.5,
+  "keyBindings": {
+    "open": "Ctrl+O",
+    "save": "Ctrl+S",
+    "openTerminal": "Ctrl+`"
+  },
+  "theme": {
+    "backgroundColor": "#111111",
+    "textColor": "#ffffff",
+    "fontFamily": "monospace"
+  }
+}
