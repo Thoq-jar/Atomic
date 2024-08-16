@@ -40,5 +40,4 @@ npm start
 ```
 
 ## License
-[MIT](LICENSE)
-```
+See License file: [MIT](LICENSE)
