@@ -28,6 +28,9 @@ Atomic is a code editor built on Electron designed to be an Atom clone, not a fo
 - Project management (WIP)
 - Debugging (WIP) [Atom doesnt have this I am aware]
 
+**Possible Future Features**
+- I Want to use Electron but as it is inefficient and large I am considering using a different framework like Tauri (I am using Electron to keep the feel of Atom because it used Electron)
+
 
 ## Installation
 Installing Atomic currently doesn't have a release, but you can clone the repository and run the following commands to get started.
