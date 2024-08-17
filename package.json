@@ -5,7 +5,9 @@
   "main": "renderer/main.js",
   "scripts": {
     "start": "electron .",
-    "package-x64-linux": "electron-packager . Atomic --platform=linux --arch=x64 --icon=icon.png --overwrite --ignore=^data$",
+    "package-x64-linux": "electron-packager . Atomic --platform=linux --arch=x64 --icon=icon.png --overwrite --ignore=^data$ --overwrite",
+    "package-arm64-darwin": "electron-packager . Atomic --platform=darwin --arch=arm64 --icon=assets/atomic.icns --ignore^data$ --overwrite",
+    "package-x64-win32": "electron-packager . Atomic --platform=win32 --arch=x64 --icon=assets/atomic.ico --ignore^data$ --overwrite",
     "lint": "eslint ."
   },
   "keywords": [],
