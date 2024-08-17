@@ -34,6 +34,7 @@ Atomic is a code editor built on Electron designed to be an Atom clone, not a fo
 
 ## Installation
 Installing: Atomic currently doesn't have a stable release, but you can clone the repository and run the following commands to get started with development!
+
 *Atomic is **64bit** only!*
 
 ```bash
